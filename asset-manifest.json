@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-seeneco/static/css/main.2b661843.css",
+    "main.js": "/test-task-seeneco/static/js/main.205ba60f.js",
+    "index.html": "/test-task-seeneco/index.html",
+    "main.2b661843.css.map": "/test-task-seeneco/static/css/main.2b661843.css.map",
+    "main.205ba60f.js.map": "/test-task-seeneco/static/js/main.205ba60f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b661843.css",
+    "static/js/main.205ba60f.js"
+  ]
+}
