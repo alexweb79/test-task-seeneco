@@ -16,6 +16,9 @@ User authorization information can be stored in `localStorage` with a simple `tr
 
 Everything you need to throw through `Redux`.
 
+## Demo
+https://alexweb79.github.io/test-task-seeneco/
+
 ## Usage
 
 ### Starter files
